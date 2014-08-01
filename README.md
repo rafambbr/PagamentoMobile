@@ -1,4 +1,4 @@
 PagamentoMobile
 ===============
 
-Exemplo de aplicação para pagamento mobile
+Exemplo de aplicação feita em Android para pagamento mobile
